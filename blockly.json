@@ -1,0 +1,15 @@
+{
+    "types": ["digitalpin_new", "digitalpin_read", "digitalpin_val"],
+    "category": "catMenu2",
+    "scripts": [
+        "blockly/blocks.js",
+        "blockly/javascript.js"
+    ],
+    "dependencies": [
+        "DigitalPin.js",
+        "DigitalPin-blockly.js"
+    ],
+    "msg": "blockly/msg",
+    "blocksMsg": "blockly/msg/blocks",
+    "toolbox": "blockly/toolbox.xml"
+}

@@ -1,0 +1,1 @@
+MSG.catDigitalPin = "數位腳偵測";

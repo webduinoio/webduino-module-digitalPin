@@ -1,0 +1,13 @@
+<category id="catDigitalPin" tags="mark1,fly,smart">
+    <block type="variables_set">
+        <field name="VAR">pin</field>
+        <value name="VALUE">
+            <block type="digitalpin_new">
+            </block>
+        </value>
+    </block>
+    <block type="digitalpin_read">
+    </block>
+    <block type="digitalpin_val">
+    </block>
+</category>

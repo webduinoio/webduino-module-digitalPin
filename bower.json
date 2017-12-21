@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-digitalPin",
+  "description": "DigitalPin Module for Webduino",
+  "main": "DigitalPin.js",
+  "authors": "",
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "DigitalPin"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
